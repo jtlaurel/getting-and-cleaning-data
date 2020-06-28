@@ -12,5 +12,5 @@ The goal of this project was to create an R script 'run_analysis.R' that does th
 ## Repository Contents
 This reposity contains the following:
 1. A Codebook that describes the variables, the data, and any transformations or work that were performed.
-2. An R script 'run_analysis.R' that takes the data provided in the UCI Har Dataset and constructs the summarized tidy data set by utilizing the libraries ```{r}read.table``` and ```{r}dplyr```.
+2. An R script 'run_analysis.R' that takes the data provided in the UCI Har Dataset and constructs the summarized tidy data set by utilizing the libraries ```read.table``` and ```dplyr```.
 3. The final independent tidy data set with the average of each variable with respect to each activity and each subject.
